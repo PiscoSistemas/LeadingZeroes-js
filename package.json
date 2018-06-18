@@ -1,5 +1,5 @@
 {
-  "name": "leadingzeroes",
+  "name": "leading-zeroes",
   "version": "1.0.0",
   "description": "Add leading zeroes to strings",
   "main": "index.js",
