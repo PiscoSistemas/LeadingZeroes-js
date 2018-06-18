@@ -4,7 +4,8 @@
   "description": "Add leading zeroes to strings",
   "main": "index.js",
   "scripts": {
-    "test": "node test/test.js"
+    "test": "node test/test.js",
+    "build": "tsc index.ts"
   },
   "repository": {
     "type": "git",
