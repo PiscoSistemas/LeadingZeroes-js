@@ -1,0 +1,23 @@
+{
+  "name": "leadingzeroes",
+  "version": "1.0.0",
+  "description": "Add leading zeroes to strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiscoSistemas/LeadingZeroes-js.git"
+  },
+  "keywords": [
+    "Leading",
+    "Zeroes"
+  ],
+  "author": "Vitor Hugo de Oliveira <vitor83dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PiscoSistemas/LeadingZeroes-js/issues"
+  },
+  "homepage": "https://github.com/PiscoSistemas/LeadingZeroes-js#readme"
+}
